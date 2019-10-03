@@ -53,7 +53,7 @@
     - title: Probability Sampling
       url: /ch/02/design_sampling.html
     - title: SRS vs. "Big Data"
-      url: /ch/02/design_srs_vs_big_data.html
+      url: /ch/02/design_srs_vs_big_data_julia.html
 - title: Tabular Data and pandas
   url: /ch/03/pandas_intro.html
   sections:
