@@ -159,3 +159,9 @@ venv.bak/
 _site
 .sass-cache
 .jekyll-metadata
+
+# Files automatically created when running make serve or make build
+ch/
+notebooks-images/
+notebooks/**/*.md
+notebooks/**/*.png
