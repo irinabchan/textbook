@@ -55,16 +55,16 @@
     - title: SRS vs. "Big Data"
       url: /ch/02/design_srs_vs_big_data_julia.html
 - title: Tabular Data and pandas
-  url: /ch/03/pandas_intro.html
+  url: /ch/03/julia_intro.html
   sections:
     - title: Structure
-      url: /ch/03/pandas_structure.html
+      url: /ch/03/julia_structure.html
     - title: Indexes, Slicing, and Sorting
-      url: /ch/03/pandas_indexes.html
+      url: /ch/03/julia_indexes.html
     - title: Grouping and Pivoting
-      url: /ch/03/pandas_grouping_pivoting.html
+      url: /ch/03/julia_grouping_pivoting.html
     - title: Apply, Strings, and Plotting
-      url: /ch/03/pandas_apply_strings_plotting.html
+      url: /ch/03/julia_apply_strings_plotting.html
 - title: Exploratory Data Analysis
   url: /ch/04/eda_intro.html
   sections:
