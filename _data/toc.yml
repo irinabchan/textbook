@@ -66,10 +66,10 @@
     - title: Apply, Strings, and Plotting
       url: /ch/03/julia_apply_strings_plotting.html
 - title: Exploratory Data Analysis
-  url: /ch/04/eda_intro.html
+  url: /ch/04/julia_eda_intro.html
   sections:
     - title: Data Types
-      url: /ch/04/eda_data_types.html
+      url: /ch/04/julia_eda_data_types.html
     - title: Distributions [in progress]
       url: ''
     - title: Associations [in progress]
