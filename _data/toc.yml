@@ -121,14 +121,14 @@
     - title: Regex in Julia
       url: /ch/08/julia_text_re.html
 - title: Databases and SQL
-  url: /ch/09/sql_intro.html
+  url: /ch/09/julia_sql_intro.html
   sections:
     - title: Relational Databases
-      url: /ch/09/sql_rdbms.html
+      url: /ch/09/julia_sql_rdbms.html
     - title: SQL Queries
-      url: /ch/09/sql_basics.html
+      url: /ch/09/julia_sql_basics.html
     - title: SQL Joins
-      url: /ch/09/sql_joins.html
+      url: /ch/09/julia_sql_joins.html
 - title: Modeling and Estimation
   url: /ch/10/modeling_intro.html
   sections:
