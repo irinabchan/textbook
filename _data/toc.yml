@@ -110,7 +110,7 @@
   url: /ch/07/web_intro.html
   sections:
     - title: HTTP
-      url: /ch/07/web_http.html
+      url: /ch/07/julia_web_http.html
 - title: Working With Text
   url: /ch/08/text_intro.html
   sections:
