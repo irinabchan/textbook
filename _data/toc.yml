@@ -142,13 +142,13 @@
   url: /ch/11/gradient_descent.html
   sections:
     - title: Basic Numerical Optimization
-      url: /ch/11/gradient_basics.html
+      url: /ch/11/julia_gradient_basics.html
     - title: Defining Gradient Descent
-      url: /ch/11/gradient_descent_define.html
+      url: /ch/11/julia_gradient_descent_define.html
     - title: Convexity
       url: /ch/11/gradient_convexity.html
     - title: Stochastic Gradient Descent
-      url: /ch/11/gradient_stochastic.html
+      url: /ch/11/julia_gradient_stochastic.html
 - title: Probability and Generalization
   url: /ch/12/prob_and_gen.html
   sections:
