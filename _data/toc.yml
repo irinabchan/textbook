@@ -162,15 +162,15 @@
   url: /ch/13/linear_models.html
   sections:
     - title: Defining a Simple Linear Model
-      url: /ch/13/linear_tips.html
+      url: /ch/13/julia_linear_tips.html
     - title: Fitting the Model
-      url: /ch/13/linear_grad.html
+      url: /ch/13/julia_linear_grad.html
     - title: Multiple Linear Regression
-      url: /ch/13/linear_multiple.html
+      url: /ch/13/julia_linear_multiple.html
     - title: A Geometric Perspective
       url: /ch/13/linear_projection.html
     - title: Linear Regression Case Study
-      url: /ch/13/linear_case_study.html
+      url: /ch/13/julia_linear_case_study.html
 - title: Feature Engineering
   url: /ch/14/feature_engineering.html
   sections:
