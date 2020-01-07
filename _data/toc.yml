@@ -175,9 +175,9 @@
   url: /ch/14/feature_engineering.html
   sections:
     - title: One-Hot Encoding
-      url: /ch/14/feature_one_hot.html
+      url: /ch/14/julia_feature_one_hot.html
     - title: Polynomial Regression
-      url: /ch/14/feature_polynomial.html
+      url: /ch/14/julia_feature_polynomial.html
 - title: Bias-Variance Tradeoff
   url: /ch/15/bias_intro.html
   sections:
