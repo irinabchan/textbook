@@ -184,9 +184,9 @@
     - title: Risk and Cost Minimization
       url: /ch/15/bias_risk.html
     - title: Model Bias and Variance
-      url: /ch/15/bias_modeling.html
+      url: /ch/15/julia_bias_modeling.html
     - title: Cross Validation
-      url: /ch/15/bias_cv.html
+      url: /ch/15/julia_bias_cv.html
 - title: Regularization
   url: /ch/16/reg_intro.html
   sections:
