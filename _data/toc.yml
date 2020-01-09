@@ -193,9 +193,9 @@
     - title: Regularization Intuition
       url: /ch/16/reg_intuition.html
     - title: L2 Regularization
-      url: /ch/16/reg_ridge.html
+      url: /ch/16/julia_reg_ridge.html
     - title: L1 Regularization
-      url: /ch/16/reg_lasso.html
+      url: /ch/16/julia_reg_lasso.html
 - title: Classification
   url: /ch/17/classification_intro.html
   sections:
