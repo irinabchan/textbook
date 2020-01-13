@@ -200,21 +200,21 @@
   url: /ch/17/classification_intro.html
   sections:
     - title: Regression on Probabilities
-      url: /ch/17/classification_prob.html
+      url: /ch/17/julia_classification_prob.html
     - title: Logistic Model
       url: /ch/17/classification_log_model.html
     - title: Cross-Entropy Loss
       url: /ch/17/classification_cost.html
     - title: Using Logistic Regression
-      url: /ch/17/classification_log_reg.html
+      url: /ch/17/julia_classification_log_reg.html
     - title: Justifying Cross-Entropy Loss
       url: /ch/17/classification_cost_justification.html
     - title: Fitting a Logistic Model
-      url: /ch/17/classification_sgd.html
+      url: /ch/17/julia_classification_sgd.html
     - title: Evaluating Logistic Models
-      url: /ch/17/classification_sensitivity_specificity.html
+      url: /ch/17/julia_classification_sensitivity_specificity.html
     - title: Multiclass Classification
-      url: /ch/17/classification_multiclass.html
+      url: /ch/17/julia_classification_multiclass.html
 - title: Statistical Inference
   url: /ch/18/hyp_intro.html
   sections:
