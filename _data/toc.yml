@@ -219,15 +219,15 @@
   url: /ch/18/hyp_intro.html
   sections:
     - title: Introduction to Hypothesis Testing
-      url: /ch/18/hyp_introduction.html
+      url: /ch/18/julia_hyp_introduction.html
     - title: Permutation Testing
-      url: /ch/18/hyp_introduction_part2.html
+      url: /ch/18/julia_hyp_introduction_part2.html
     - title: Bootstrapping for Linear Regression
-      url: /ch/18/hyp_regression.html
+      url: /ch/18/julia_hyp_regression.html
     - title: Studentized Bootstrap
-      url: /ch/18/hyp_studentized.html
+      url: /ch/18/julia_hyp_studentized.html
     - title: P-Hacking
-      url: /ch/18/hyp_phacking.html
+      url: /ch/18/julia_hyp_phacking.html
 - divider: true
 - title: 'Appendix: Vector Space Review'
   url: /ch/19/vector_space_review.html
