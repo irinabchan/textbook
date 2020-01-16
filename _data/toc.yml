@@ -95,15 +95,15 @@
   url: /ch/06/viz_intro.html
   sections:
     - title: Quantitative Data
-      url: /ch/06/viz_quantitative.html
+      url: /ch/06/julia_viz_quantitative.html
     - title: Qualitative Data
-      url: /ch/06/viz_qualitative.html
+      url: /ch/06/julia_viz_qualitative.html
     - title: Customizing Plots
-      url: /ch/06/viz_matplotlib.html
+      url: /ch/06/julia_viz_matplotlib.html
     - title: Principles of Visualization
       url: /ch/06/viz_principles.html
     - title: Principles of Visualization 2
-      url: /ch/06/viz_principles_2.html
+      url: /ch/06/julia_viz_principles_2.html
     - title: Visualization Philosophy
       url: /ch/06/viz_philosophy.html
 - title: Web Technologies
