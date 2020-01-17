@@ -38,11 +38,11 @@
   url: /ch/01/lifecycle_intro.html
   sections:
     - title: The Students of Data 100
-      url: /ch/01/lifecycle_students_julia_1.html
+      url: /ch/01/julia_lifecycle_students_1.html
     - title: Exploring the Data
-      url: /ch/01/lifecycle_students_julia_2.html
+      url: /ch/01/julia_lifecycle_students_2.html
     - title: What's in a Name?
-      url: /ch/01/lifecycle_students_julia_3.html
+      url: /ch/01/julia_lifecycle_students_3.html
 - title: Data Design
   url: /ch/02/design_intro.html
   sections:
@@ -53,7 +53,7 @@
     - title: Probability Sampling
       url: /ch/02/design_sampling.html
     - title: SRS vs. "Big Data"
-      url: /ch/02/design_srs_vs_big_data_julia.html
+      url: /ch/02/julia_design_srs_vs_big_data.html
 - title: Tabular Data and pandas
   url: /ch/03/julia_intro.html
   sections:
@@ -70,40 +70,40 @@
   sections:
     - title: Data Types
       url: /ch/04/julia_eda_data_types.html
-    - title: Distributions [in progress]
-      url: ''
-    - title: Associations [in progress]
-      url: ''
+    #- title: Distributions [in progress]
+    #  url: ''
+    #- title: Associations [in progress]
+    #  url: ''
 - title: Data Cleaning
   url: /ch/05/cleaning_intro.html
   sections:
     - title: Cleaning the Calls Dataset
-      url: /ch/05/cleaning_calls.html
+      url: /ch/05/julia_cleaning_calls.html
     - title: Cleaning the Stops Dataset
-      url: /ch/05/cleaning_stops.html
+      url: /ch/05/julia_cleaning_stops.html
     - title: Structure and Joins
-      url: /ch/05/cleaning_structure.html
+      url: /ch/05/julia_cleaning_structure.html
     - title: Granularity
-      url: /ch/05/cleaning_granularity.html
+      url: /ch/05/julia_cleaning_granularity.html
     - title: Scope
-      url: /ch/05/cleaning_scope.html
+      url: /ch/05/julia_cleaning_scope.html
     - title: Temporality
       url: /ch/05/cleaning_temp.html
     - title: Faithfulness
-      url: /ch/05/cleaning_faithfulness.html
+      url: /ch/05/julia_cleaning_faithfulness.html
 - title: Data Visualization
   url: /ch/06/viz_intro.html
   sections:
     - title: Quantitative Data
-      url: /ch/06/viz_quantitative.html
+      url: /ch/06/julia_viz_quantitative.html
     - title: Qualitative Data
-      url: /ch/06/viz_qualitative.html
+      url: /ch/06/julia_viz_qualitative.html
     - title: Customizing Plots
-      url: /ch/06/viz_matplotlib.html
+      url: /ch/06/julia_viz_matplotlib.html
     - title: Principles of Visualization
       url: /ch/06/viz_principles.html
     - title: Principles of Visualization 2
-      url: /ch/06/viz_principles_2.html
+      url: /ch/06/julia_viz_principles_2.html
     - title: Visualization Philosophy
       url: /ch/06/viz_philosophy.html
 - title: Web Technologies
