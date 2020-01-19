@@ -54,7 +54,7 @@
       url: /ch/02/design_sampling.html
     - title: SRS vs. "Big Data"
       url: /ch/02/julia_design_srs_vs_big_data.html
-- title: Tabular Data and pandas
+- title: Tabular Data and DataFrames
   url: /ch/03/julia_intro.html
   sections:
     - title: Structure
