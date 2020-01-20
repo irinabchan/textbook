@@ -28,12 +28,16 @@ Please refer to the documentation pages for further information.
 | MLJLinearModels.jl | https://github.com/alan-turing-institute/MLJLinearModels.jl |
 | MLJModels.jl | https://github.com/alan-turing-institute/MLJModels.jl |
 | Optim.jl | https://github.com/JuliaNLSolvers/Optim.jl |
+| Plots.jl | http://docs.juliaplots.org/latest/ |
 | Polynomials.jl | https://juliamath.github.io/Polynomials.jl/stable/ |
 | PyCall.jl | https://github.com/JuliaPy/PyCall.jl |
+| PyPlot.jl | https://github.com/JuliaPy/PyPlot.jl |
 | RDataSets.jl | https://github.com/JuliaStats/RDatasets.jl |
 | ROCAnalysis.jl | https://github.com/davidavdav/ROCAnalysis.jl/ |
 | ScikitLearn.jl | https://scikitlearnjl.readthedocs.io/en/latest/ |
+| SQLite.jl | https://juliadatabases.github.io/SQLite.jl/stable/ |
 | StatsBase.jl | https://juliastats.org/StatsBase.jl/stable/ |
+| StatsPlots.jl | https://github.com/JuliaPlots/StatsPlots.jl |
 | Suppressor.jl | https://github.com/JuliaIO/Suppressor.jl |
 | TextAnalysis.jl | https://juliatext.github.io/TextAnalysis.jl/latest/ |
 | ZipFile.jl | https://github.com/fhs/ZipFile.jl |
