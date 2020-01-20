@@ -233,17 +233,15 @@
   url: /ch/19/vector_space_review.html
   not_numbered: true
 - title: 'Appendix: Reference Tables'
-  url: /ch/20/ref_intro.html
+  url: /ch/20/julia_ref_intro.html
   not_numbered: true
   sections:
-    - title: pandas
-      url: /ch/20/ref_pandas.html
-    - title: seaborn
-      url: /ch/20/ref_seaborn.html
-    - title: matplotlib
-      url: /ch/20/ref_matplotlib.html
-    - title: scikit-learn
-      url: /ch/20/ref_sklearn.html
+    - title: DataFrames
+      url: /ch/20/julia_ref_dataframes.html
+    - title: Plotting
+      url: /ch/20/julia_ref_plotting.html
+    - title: MLJ
+      url: /ch/20/julia_ref_mlj.html
 - title: 'Appendix: Contributors'
   url: /ch/21/contributors.html
   not_numbered: true
