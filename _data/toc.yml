@@ -42,7 +42,7 @@
     - title: Exploring the Data
       url: /ch/01/julia_lifecycle_students_2.html
     - title: What's in a Name?
-      url: /ch/01/julia_lifecycle_students_3.html
+      url: /ch/01/julia_lifecycle_students_3_v2.html
 - title: Data Design
   url: /ch/02/design_intro.html
   sections:
@@ -78,11 +78,11 @@
   url: /ch/05/cleaning_intro.html
   sections:
     - title: Cleaning the Calls Dataset
-      url: /ch/05/julia_cleaning_calls.html
+      url: /ch/05/julia_cleaning_calls_v2.html
     - title: Cleaning the Stops Dataset
       url: /ch/05/julia_cleaning_stops.html
     - title: Structure and Joins
-      url: /ch/05/julia_cleaning_structure.html
+      url: /ch/05/julia_cleaning_structure_v2.html
     - title: Granularity
       url: /ch/05/julia_cleaning_granularity.html
     - title: Scope
