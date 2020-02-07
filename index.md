@@ -8,7 +8,7 @@ next_page: '/about_this_book.html'
 
 **By [Sam Lau][sam], [Joey Gonzalez][joey], and [Deb Nolan][deb].**
 
-This is the textbook for
+This is the Julia adaptation of the textbook for
 [Data 100, the Principles and Techniques of Data Science course at UC Berkeley][ds100].
 
 Data 100 is the upper-division, semester-long data science course that follows
@@ -25,6 +25,6 @@ To set up the textbook for local development, see the [the setup guide][setup].
 [deb]: https://www.stat.berkeley.edu/~nolan/
 [data8]: http://data8.org/
 [ds100]: http://www.ds100.org/
-[setup]: https://github.com/DS-100/textbook/blob/master/SETUP.md
+[setup]: https://github.com/irinabchan/textbook/blob/master/SETUP.md
 [about]: /about_this_book
 
